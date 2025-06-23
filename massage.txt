@@ -1,0 +1,29 @@
+ SKIP if needed then study in later---
+#4 (4:34:50) Programming Challenge 8-14 🙅‍♂️
+#4.6 (5:16:48) If-else ❗
+#4.7 (5:36:25) Relational Operators ➰
+#4.8 (5:47:46) Logical Operators ☕
+#4 (5:55:30) Programming Challenge 15-20 🙅‍♂️
+#4.9 (6:38:40) Operator Precedence 📖
+#4.10 (6:41:48) Intro to Number System 📖
+#4 (8:50:23) Programming Challenge 28-39 🙅‍♂️
+#5.6 (11:02:13) Arrays 🧮 
+#5.7 (11:39:36) 2D Arrays ⌨️ 
+
+
+
+
+#5 (01:27) Programming Challenge 40-50 🙅‍♂️
+#5 (01:51:44) Practice Exercise 🙅‍♂️
+
+
+TASK 11 - PAGE 159
+TASK 10 - PAGE 153
+TASK 9 - PAGE 134
+TASK 8 - PAGE 112
+TASK 7 - PAGE 104
+
+
+WATCH THIS TWO TOPICS ONES AGAIN
+#7.8 (7:25:50) toString Method 👻
+#7.9 (7:35:18) String class 💊
