@@ -8,6 +8,11 @@ public class BankAccount {
     // public static int deposit;
     // public static double withdraw;
 
+    public BankAccount(String accountNumber , String accountHolderName){
+        this.accountNumber = accountNumber;
+        this.accountHolderName = accountHolderName;
+    }
+
     public void depoisted( double money){
         if(money <= 0){
             System.out.println("Invalid Deposit");
@@ -17,11 +22,11 @@ public class BankAccount {
         }
     }
     public double withdrawmoney(double money){
-        if(balance >= money){
-            balance -= money;
-        } else if(money <= 0){
+         if(money <= 0){
           System.out.println("Invalid Withdraw");
-        }else{
+        }else if(balance >= money){
+            balance -= money;
+        } else{
          money = balance;
          balance =0;
         }
