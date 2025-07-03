@@ -1,5 +1,4 @@
 
-
 class Room {
     float height;
     float breath;
@@ -10,7 +9,7 @@ class Room {
     }
 }
 
-public class Roomarea {
+public class Roomarea_Q3 {
     public static void main(String[] args) {
         float area;
         Room input = new Room();
