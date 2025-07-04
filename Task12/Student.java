@@ -16,7 +16,7 @@ public class Student {
 
     // Main method to test
     public static void main(String[] args) {
-        Student student1 = new Student("Alice", 21);
+        Student_defConstructor_Q5 student1 = new Student_defConstructor_Q5("Alice", 21);
         System.out.println(student1); // Automatically calls toString()
     }
 }
